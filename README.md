@@ -25,6 +25,7 @@ Python 3.6+, pandas, numpy, catboost, scikit-learn
 ## Описание файлов
 
 SEIR.ipynb - SEIR модель
+
 Boosting.ipynd - CatBoost модель
 
 ## Авторы:
