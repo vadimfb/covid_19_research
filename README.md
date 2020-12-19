@@ -21,3 +21,15 @@ COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE
 ## Требования
 
 Python 3.6+, pandas, numpy, catboost, scikit-learn
+
+## Описание файлов
+
+SEIR.ipynb - SEIR модель
+Boosting.ipynd - CatBoost модель
+
+## Авторы:
+Улитин Александр
+
+Вадим Кислинский
+
+Товкес Артем
